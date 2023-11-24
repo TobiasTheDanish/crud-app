@@ -1,0 +1,17 @@
+.add-task-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 8px 0;
+    gap:4px;
+    margin-top: 8px;
+    border-top: 1px solid #e3e3e3;
+}
+
+input#task {
+    border: none;
+    border-radius: 8px;
+    line-height: 30px;
+    font-size: 1rem;
+    padding: 0 8px;
+}
+
